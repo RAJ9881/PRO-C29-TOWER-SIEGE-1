@@ -13,7 +13,7 @@ var score=0;
 
 function preload(){
 
- polygon_img=loadImage("images/polygon.png");
+ polygon_img=loadImage("polygon.png");
   
 }
 function setup() {
